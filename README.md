@@ -23,5 +23,3 @@
 7.调整屏幕亮度，设置阅读背景及字体颜色等。   
 [↓┈听书ʏˢ Tingshu_v2.2.8下载](https://pan.lanzoux.com/b873905)  
 ![tingshu](https://raw.githubusercontents.com/liu673cn/book/main/img/tingshu.jpg)   
-
-------
