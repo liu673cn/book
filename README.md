@@ -10,7 +10,7 @@
 7.支持自定义阅读界面，切换字体、颜色、背景、简繁转换等。  <br />
 8.支持多种翻页模式，覆盖、仿真、滑动、滚动等。  <br />
 9.软件开源，持续优化，无广告。  <br />
-[↓┈阅读ʏᴰ Legado_3.22下载](https://kunfei.lanzoui.com/b0f810h4b) |! ![yuedu](https://raw.iqiq.io/liu673cn/book/main/img/yuedu.jpg)   
+[↓┈阅读ʏᴰ Legado_3.22下载](https://kunfei.lanzoui.com/b0f810h4b) |! [yuedu](https://raw.iqiq.io/liu673cn/book/main/img/yuedu.jpg)   
 
 
 
