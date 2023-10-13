@@ -8,8 +8,9 @@
 7.支持自定义阅读界面，切换字体、颜色、背景、简繁转换等。  
 8.支持多种翻页模式，覆盖、仿真、滑动、滚动等。  
 9.软件开源，持续优化，无广告。  
-[↓┈阅读ʏᴰ Legado_3.22下载](https://kunfei.lanzoui.com/b0f810h4b)
-![yuedu](https://raw.iqiq.io/liu673cn/book/main/img/yuedu.jpg)   
+[↓┈阅读ʏᴰ Legado_3下载](https://miaogongzi.lanzout.com/b01rgkhhe)
+[↓┈智声Ai tts 157个 一键导入](legado://import/httpTTS?src=https://909527.xyz/tts/tts_list)
+![yuedu](./img/yuedu.jpg)   
 
 ------
 ## 我的听书2.0  
@@ -22,4 +23,4 @@
 6.支持调整字体大小，智能分析章节目录。   
 7.调整屏幕亮度，设置阅读背景及字体颜色等。   
 [↓┈听书ʏˢ Tingshu_v2.2.8下载](https://pan.lanzoux.com/b873905)  
-![tingshu](https://raw.iqiq.io/liu673cn/book/main/img/tingshu.jpg)   
+![tingshu](./img/tingshu.jpg)   
