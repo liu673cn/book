@@ -8,8 +8,7 @@
 7.支持自定义阅读界面，切换字体、颜色、背景、简繁转换等。  
 8.支持多种翻页模式，覆盖、仿真、滑动、滚动等。  
 9.软件开源，持续优化，无广告。  
-[↓┈阅读ʏᴰ Legado_3下载](https://miaogongzi.lanzout.com/b01rgkhhe)
-[↓┈智声Ai tts 157个 一键导入](legado://import/httpTTS?src=https://909527.xyz/tts/tts_list)
+[↓┈阅读ʏᴰ Legado_3下载](https://miaogongzi.lanzout.com/b01rgkhhe)  
 ![yuedu](./img/yuedu.jpg)   
 
 ------
